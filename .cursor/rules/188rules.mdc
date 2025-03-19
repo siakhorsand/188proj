@@ -1,0 +1,15 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- Use the slimevolleygym directory as a reference, model all of your implementations loosely based on the files in this directory and follow the same practices unless told otherwise. 
+- Make sure to test run all files after writing them to make sure everything works 
+- find ways to directly edit ipynb since you cant edit cells. 
+- your main workspace to add or manipulate files is in the SIA directory.
+- feel free to copy files from slimevolleygym directory but dont change anything inside it. 
+- if you are using a library that supports my macbook pro m4 pro gpu to speed up processing, make sure to enable using my macbook chip.
+- make training processes well visualized using text and graphs
